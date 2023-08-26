@@ -1,5 +1,78 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Sherman Gutkowski",
+      "id": 2
+    },
+    {
+      "name": "Jesus Rohan",
+      "id": 3
+    },
+    {
+      "name": "Debra Sauer",
+      "id": 4
+    },
+    {
+      "name": "Tom Kirlin",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Troy Larkin",
+      "id": 6
+    },
+    {
+      "name": "Lynn Kautzer",
+      "id": 7
+    },
+    {
+      "name": "Ms. Lee Greenfelder Jr.",
+      "id": 8
+    },
+    {
+      "name": "Mr. Josh Gleichner",
+      "id": 9
+    },
+    {
+      "name": "Delores Wuckert I",
+      "id": 10
+    },
+    {
+      "name": "David Murphy",
+      "id": 11
+    },
+    {
+      "name": "Isabel Runolfsson",
+      "id": 12
+    },
+    {
+      "name": "Erick MacGyver",
+      "id": 13
+    },
+    {
+      "name": "Michael Harber MD",
+      "id": 14
+    },
+    {
+      "name": "Willie Daugherty",
+      "id": 15
+    },
+    {
+      "name": "Miss Lana Zieme",
+      "id": 16
+    },
+    {
+      "name": "Ricardo Wisoky",
+      "id": 17
+    },
+    {
+      "name": "Mr. Oliver Champlin",
+      "id": 18
+    }
+  ],
   "albums": [],
   "photos": []
 }
