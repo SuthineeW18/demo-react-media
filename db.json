@@ -5,74 +5,40 @@
       "name": "Myra"
     },
     {
-      "name": "Sherman Gutkowski",
-      "id": 2
-    },
-    {
-      "name": "Jesus Rohan",
+      "name": "Elsie Price",
       "id": 3
     },
     {
-      "name": "Debra Sauer",
+      "name": "Harold Strosin",
       "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
     },
     {
-      "name": "Tom Kirlin",
-      "id": 5
-    },
-    {
-      "name": "Mrs. Troy Larkin",
-      "id": 6
-    },
-    {
-      "name": "Lynn Kautzer",
-      "id": 7
-    },
-    {
-      "name": "Ms. Lee Greenfelder Jr.",
-      "id": 8
-    },
-    {
-      "name": "Mr. Josh Gleichner",
-      "id": 9
-    },
-    {
-      "name": "Delores Wuckert I",
-      "id": 10
-    },
-    {
-      "name": "David Murphy",
+      "userId": 1,
+      "title": "Awesome Soft Bike",
       "id": 11
     },
     {
-      "name": "Isabel Runolfsson",
+      "userId": 1,
+      "title": "Luxurious Bronze Hat",
       "id": 12
     },
     {
-      "name": "Erick MacGyver",
+      "userId": 1,
+      "title": "Oriental Cotton Tuna",
       "id": 13
     },
     {
-      "name": "Michael Harber MD",
+      "userId": 1,
+      "title": "Handcrafted Steel Salad",
       "id": 14
-    },
-    {
-      "name": "Willie Daugherty",
-      "id": 15
-    },
-    {
-      "name": "Miss Lana Zieme",
-      "id": 16
-    },
-    {
-      "name": "Ricardo Wisoky",
-      "id": 17
-    },
-    {
-      "name": "Mr. Oliver Champlin",
-      "id": 18
     }
   ],
-  "albums": [],
   "photos": []
 }
