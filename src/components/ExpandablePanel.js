@@ -1,11 +1,11 @@
-import { useState } from "react";
-import { GoChevronDown, GoChevronLeft } from "react-icons/go";
+import { useState } from 'react';
+import { GoChevronDown, GoChevronLeft } from 'react-icons/go';
 
 function ExpandablePanel({ header, children }) {
-  const [expanded, setExpand] = useState(false);
+  const [expanded, setExpanded] = useState(false);
 
   const handleClick = () => {
-    setExpand(!expanded);
+    setExpanded(!expanded);
   };
 
   return (
