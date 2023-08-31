@@ -11,34 +11,59 @@
     {
       "name": "Harold Strosin",
       "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "userId": 1,
+      "title": "Practical Steel Mouse",
+      "id": 15
     },
     {
       "userId": 1,
-      "title": "Awesome Soft Bike",
-      "id": 11
+      "title": "Oriental Rubber Chair",
+      "id": 16
     },
     {
       "userId": 1,
-      "title": "Luxurious Bronze Hat",
-      "id": 12
+      "title": "Ergonomic Soft Hat",
+      "id": 17
     },
     {
       "userId": 1,
-      "title": "Oriental Cotton Tuna",
-      "id": 13
+      "title": "Handmade Plastic Ball",
+      "id": 18
     },
     {
       "userId": 1,
-      "title": "Handcrafted Steel Salad",
-      "id": 14
+      "title": "Fantastic Granite Chicken",
+      "id": 19
+    },
+    {
+      "userId": 1,
+      "title": "Modern Soft Gloves",
+      "id": 20
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Bronze Hat",
+      "id": 21
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=30160",
+      "id": 1
+    },
+    {
+      "albumId": 15,
+      "url": "https://loremflickr.com/150/150/abstract?lock=61951",
+      "id": 2
+    }
+  ]
 }
